@@ -52,6 +52,7 @@ hr{
     color: white;
     padding: 10px;
     border-radius: 8px;
+    text-decoration: none;
 }
 
 
@@ -98,6 +99,7 @@ hr{
 .insta-link{
     margin: 50px 50px 0 0;
     color: #11999e;
+    text-decoration: none;
 }
 .insta-link:hover{
     color: white;
@@ -105,6 +107,7 @@ hr{
 .website-link{
     margin-left: 50px;
     color: #11999e;
+    text-decoration: none;
     
 }
 .website-link:hover{
@@ -114,6 +117,7 @@ hr{
 .twitter-link{
     color: #11999e;
     margin-top: 50px;
+    text-decoration: none;
 }
 .twitter-link:hover{
     color: white;
